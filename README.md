@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriquePorfirio&bg_color=0d1117&color=68c8ee&line=6670ff&point=49d9fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-[  <img src="https://github-profile-trophy.vercel.app/?username=HenriquePorfirio&theme=darkHub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <img src="https://github-profile-trophy.vercel.app/?username=HenriquePorfirio&theme=darkHub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
 
 <div align="center"> 
